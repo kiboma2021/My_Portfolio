@@ -171,16 +171,18 @@
           <div class="conclusion-text center">
             <p>I'm always interested in hearing about new projects, so if you'd like to chat please get in touch.</p>
           </div>
-          <form id="Contact" class="contact" action="https://formspree.io/f/mlezlqor" method="post">
+          <form id="Contact" class="contact" action="https://formspree.io/f/mqknglqn" method="post">
             <label for="full-name"></label>
             <input title="type your full name" class="info" id="full-name" name="Name" type="text" placeholder="Full name" maxlength="30" required />
-
+          
             <label for="email-address"></label>
             <input title="type your email address" id="email-address" class="info" name="Email" type="email" placeholder="Email address" required />
-
+          
             <label for="text"></label>
             <textarea class="textarea" id="text" name="Text" cols="30" rows="10" maxlength="500" placeholder="Enter text area" required></textarea>
-
+          
+             <!-- Add a hidden input field for the subject -->
+            <input type="hidden" name="_subject" value="FROM MY PORTFOLIO WEBSITE">
             <button class="resume-button contact-btn" type="submit">Get in touch</button>
             <div class="error hide">
               <p class="error-message"></p>
