@@ -52,6 +52,16 @@ const projects = [
     liveVersion: "https://www.google.com/",
     source: "https://github.com/kiboma2021/APA-CRM",
   },
+
+  {
+    title: "PENSION MANAGEMENT SYSTEM",
+    description: "This Django web-based application facilitates the tracking of queries received via emails. It provides tools to monitor and manage the turnaround time from ticket creation to resolution, ensuring efficient handling of inquiries.",
+    imageUrl: "./images/project_images/PENSION.png",
+    technologies: ["Django", "CSS", "Html","JavaScript"],
+    liveVersion: "https://www.google.com/",
+    source: "https://github.com/kiboma2021/APA-CRM",
+  },
+
 ];
 
 export default projects;
