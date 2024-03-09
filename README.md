@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://kiboma2021.github.io/Ben_Portfolio/)
+[Live Demo Link](https://kiboma2021.github.io/My_Portfolio/)
 
 
 ## Getting Started
